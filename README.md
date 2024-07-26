@@ -58,7 +58,7 @@ This project is a **Weather Data Aggregator and Analyzer** that fetches weather 
 
 The application generates visualizations for temperature, humidity, wind speed, and weather condition distribution. Below is an example output:
 
-![Temperature Over Time](output/temperature.png)
+![Temperature Over Time](output/temp.png)
 ![Humidity Over Time](output/humidity.png)
-![Wind Speed Over Time](output/wind_speed.png)
+![Wind Speed Over Time](output/windspeed.png)
 ![Weather Condition Distribution](output/weather.png)
