@@ -16,7 +16,7 @@ This project is a **Weather Data Aggregator and Analyzer** that fetches weather 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/sagarvaidya4477/project1
+    git clone https://github.com/sagarvaidya4477/ASSIGNMENT
     cd weather-data-analyzer
     ```
 
